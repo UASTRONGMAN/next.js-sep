@@ -5,9 +5,7 @@ const Header = () => {
     return (
         <div>
             <Link href={'/'}>Home</Link> <br/>
-            <Link href={'/users'}>Users</Link> <br/>
-            <Link href={'/posts'}>Posts</Link><br/>
-            <Link href={'/comments'}>Comments</Link>
+            <Link href={''}></Link> <br/>
             <hr/>
         </div>
     );
